@@ -19,9 +19,9 @@ This project is a simple product showcase application built using Next.js and st
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## :film_projector: Demo
+## Demo
 
-You can check out a live demo of the "Product Showcase" project at [Demo Link]([https://your-demo-link](https://product-showcase-nextjs.netlify.app/)https://product-showcase-nextjs.netlify.app/).
+You can check out a live demo of the "Product Showcase" project at [Demo Link](https://product-showcase-nextjs.netlify.app/).
 
 
 
