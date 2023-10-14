@@ -1,4 +1,4 @@
-# Product Showcase with Next.js and Tailwind CSS
+# Product Showcase with Next.js and Tailwind CSS:fire:
 
 This project is a simple product showcase application built using Next.js and styled with Tailwind CSS. It allows you to display products from a JSON dataset file and filter them by category name.
 
@@ -19,9 +19,9 @@ This project is a simple product showcase application built using Next.js and st
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## Demo
+## :film_projector: Demo
 
-You can check out a live demo of the "Product Showcase" project at [Demo Link](https://your-demo-link).
+You can check out a live demo of the "Product Showcase" project at [Demo Link]([https://your-demo-link](https://product-showcase-nextjs.netlify.app/)https://product-showcase-nextjs.netlify.app/).
 
 
 
